@@ -4,6 +4,13 @@ Enterphin IDE Release Repository.
 
 ## Update History
 
+### v0.0.4 [18/04/17]
+
+- Button Interrupt 함수에 분기 추가
+- 아두이노 연결된 포트 인식
+
+
+
 ### v0.0.3 [18/04/17]
 
 - Build & Upload 결과 콘솔에 출력

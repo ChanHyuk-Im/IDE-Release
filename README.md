@@ -4,6 +4,13 @@ Enterphin IDE Release Repository.
 
 ## Update History
 
+### v0.0.3 [18/04/17]
+
+- Build & Upload 결과 콘솔에 출력
+- COM Port 선택기능
+
+
+
 ### v0.0.2 [18/04/16]
 
 - 자동 업데이트 테스트

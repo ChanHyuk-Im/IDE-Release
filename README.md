@@ -4,6 +4,18 @@ Enterphin IDE Release Repository.
 
 ## Update History
 
+### v0.0.5 [18/04/18]
+
+- 시리얼 통신 기능 추가
+
+  - ```c++
+    ex) Serial.println("some text");
+    ```
+
+- 아두이노 호환보드 (CH340 chip) 포트 인식 지원
+
+
+
 ### v0.0.4 [18/04/17]
 
 - Button Interrupt 함수에 분기 추가

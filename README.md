@@ -4,6 +4,13 @@ Enterphin IDE Release Repository.
 
 ## Update History
 
+### v0.0.6 [18/04/19]
+
+- 코드 작성 및 자동생성 방식 변경
+- 라이브러리 관련부분 모듈화
+
+
+
 ### v0.0.5 [18/04/18]
 
 - 시리얼 통신 기능 추가

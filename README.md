@@ -1,8 +1,15 @@
 # ETP-Release
 
-Enterphin IDE Release Repository.
+Enterphin IDE Release and Update Log Repository.
 
 ## Update History
+
+### v0.0.7 [18/04/20]
+
+- 라이브러리 설정파일 및 코드 자동생성 구조 변경
+- 코드 입력시 커서가 맨 밑으로 이동하는 버그 수정
+
+
 
 ### v0.0.6 [18/04/19]
 

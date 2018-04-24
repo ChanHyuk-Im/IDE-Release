@@ -4,6 +4,11 @@ Enterphin IDE Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.9 [18/04/24]
+
+- 추가한 하드웨어 제거 기능
+- Explorer Area UI 수정
+
 ### v0.0.8 [18/04/23]
 
 - 코드 자동완성 기능 추가

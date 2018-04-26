@@ -4,6 +4,16 @@ Enterphin IDE Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.10 [18/04/26]
+
+- 라이브러리 추가
+  - 블루투스 모듈 (HC06)
+  - 도트매트릭스 모듈 (MAX7219)
+  - 터치센서 모듈 (TTP223B)
+  - 자이로 모듈 (MPU6050)
+- 콘솔 텍스트 드래그 기능
+- 업로드할 때 시리얼통신 정지
+
 ### v0.0.9 [18/04/24]
 
 - 추가한 하드웨어 제거 기능

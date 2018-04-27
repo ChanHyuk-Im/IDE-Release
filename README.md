@@ -4,6 +4,14 @@ Enterphin IDE Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.11 [18/04/27]
+
+- 자동완성 저절로 꺼지는 버그 수정
+- 인터럽트 핀 추가
+- 라이브러리 추가
+  - 버저 모듈 (HW-508)
+  - 진동센서 모듈 (801S)
+
 ### v0.0.10 [18/04/26]
 
 - 라이브러리 추가

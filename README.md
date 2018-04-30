@@ -4,6 +4,10 @@ Enterphin IDE Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.12 [18/04/30]
+
+- 모듈 추가했을 때 코드 자동생성 안되는 버그 수정
+
 ### v0.0.11 [18/04/27]
 
 - 자동완성 저절로 꺼지는 버그 수정

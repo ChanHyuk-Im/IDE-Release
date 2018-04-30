@@ -4,6 +4,13 @@ Enterphin IDE Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.13 [18/04/30]
+
+- 현재 앱 버전 표시
+- 라이브러리 추가
+  - 버튼 모듈
+  - RGB Led 모듈
+
 ### v0.0.12 [18/04/30]
 
 - 모듈 추가했을 때 코드 자동생성 안되는 버그 수정

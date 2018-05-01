@@ -4,6 +4,12 @@ Enterphin IDE Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.14 [18/05/01]
+
+- 코드 생성 구조 수정
+- 라이브러리 추가
+  - CLCD
+
 ### v0.0.13 [18/04/30]
 
 - 현재 앱 버전 표시

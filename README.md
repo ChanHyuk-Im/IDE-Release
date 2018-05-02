@@ -4,6 +4,11 @@ Enterphin IDE Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.15 [18/05/02]
+
+- 인터럽트 추가구문 버그 수정
+- 개발용 개발자도구 버튼 추가
+
 ### v0.0.14 [18/05/01]
 
 - 코드 생성 구조 수정

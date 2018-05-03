@@ -4,6 +4,16 @@ Enterphin IDE Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.16 [18/05/03]
+
+- 로딩화면 추가
+- 라이브러리 추가
+  - OLED (SSD1306)
+  - Altitude Sensor (BMP180)
+  - Joystick (HW504)
+  - Ultrasonic (HCSR04)
+  - Neopixel
+
 ### v0.0.15 [18/05/02]
 
 - 인터럽트 추가구문 버그 수정

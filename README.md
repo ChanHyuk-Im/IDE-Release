@@ -4,6 +4,19 @@ Enterphin IDE Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.17 [18/05/08]
+
+- skiiiD 이름 변경
+- 라이브러리 이미지 수정
+- 라이브러리 추가
+  - Environment Sensor (DHT11)
+    - Humidity
+    - Temperature
+  - Ir Sensor (FC51)
+  - Mic (MAX9814)
+  - Thermistor Sensor (LM393)
+  - Tilt Sensor (SW420)
+
 ### v0.0.16 [18/05/03]
 
 - 로딩화면 추가

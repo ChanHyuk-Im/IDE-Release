@@ -1,6 +1,6 @@
-# ETP-Release
+# skiiiD-Release
 
-Enterphin IDE Release and Update Log Repository.
+skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 

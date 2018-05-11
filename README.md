@@ -4,7 +4,7 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
-### v0.0.18 [18/05/10]
+### v0.0.18 [18/05/10] 
 
 - 확장자 연결 (.iii)
 - 프로젝트 저장 & 불러오기

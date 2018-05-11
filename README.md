@@ -4,6 +4,10 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.20 [18/05/11]
+
+- 빌드 프로세스 안정화
+
 ### v0.0.19 [18/05/11]
 
 - 하드웨어 선택기능 추가

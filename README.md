@@ -4,6 +4,12 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.19 [18/05/11]
+
+- 하드웨어 선택기능 추가
+- 앱 메뉴, 숏컷 메뉴 기능 추가
+- 빌드 & 업로드 상태바 추가
+
 ### v0.0.18 [18/05/10] 
 
 - 확장자 연결 (.iii)

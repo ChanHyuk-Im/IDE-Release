@@ -4,6 +4,11 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.21 [18/05/14]
+
+- 테마 추가 (White, Navy)
+- 프로젝트 파일 구조 수정
+
 ### v0.0.20 [18/05/11]
 
 - 빌드 프로세스 안정화

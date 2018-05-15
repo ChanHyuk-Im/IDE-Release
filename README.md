@@ -4,6 +4,16 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.22 [18/05/15]
+
+- 코드 접기 & 열기 기능 추가
+- 무한 빌드 버그 수정
+- 라이브러리 추가
+  - Keypad (3x4)
+  - Touch Sensor (TTP224, TTP226)
+  - PIR Sensor (HC-SR501)
+  - Gas Sensor (MQ4)
+
 ### v0.0.21 [18/05/14]
 
 - 테마 추가 (White, Navy)

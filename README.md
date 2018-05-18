@@ -4,6 +4,13 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.23 [18/05/18]
+
+- 테마 모달에 적용
+- 사용자 라이브러리 경로 추가 기능 추가
+- 라이브러리 추가
+  - SD Card Module (Arduino Story)
+
 ### v0.0.22 [18/05/15]
 
 - 코드 접기 & 열기 기능 추가

@@ -4,6 +4,13 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.24 [18/05/22]
+
+- 하드웨어 라이브러리 경로 추가 기능 추가
+- 라이브러리 추가
+  - CDS Sensor (LM393)
+  - Hall Sensor (LM393)
+
 ### v0.0.23 [18/05/18]
 
 - 테마 모달에 적용

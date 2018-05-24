@@ -4,13 +4,18 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.26 [18/05/24]
+
+- 탭에 프로젝트 이름 표시
+- 추가된 하드웨어 정보보기 기능 추가
+
 ### v0.0.25 [18/05/24]
 
 - 하드웨어 검색 기능 추가
 - 라이브러리 추가
   - Seven Segment (3642BH)
   - Moisture Sensor (Funduino)
-  - Potentiometer (Slider)
+  - Potentiometer (Sli)
 
 ### v0.0.24 [18/05/22]
 

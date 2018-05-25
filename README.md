@@ -4,6 +4,11 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.27 [18/05/25]
+
+- 프로젝트 파일 데이터 암호화
+- 앱 아이콘 & 모달 레이아웃 수정
+
 ### v0.0.26 [18/05/24]
 
 - 탭에 프로젝트 이름 표시

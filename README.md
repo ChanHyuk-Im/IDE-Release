@@ -4,6 +4,21 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.28 [18/05/29]
+
+- 저장 & 불러오기 단축키 지정 (ctrl+s, ctrl+o)
+- 아이콘 깨지는 버그 수정
+- 라이브러리 추가
+  - Button (Arduino Story)
+  - Hall Sensor (Arduino Story)
+  - Laser (KY-008)
+  - Led (Power 3W)
+  - Photo Interrupt Sensor (Arduino Story)
+  - Switch (XD-206)
+  - Tilt Sensor (Mercury)
+  - Water Level Sensor (Arduino Story)
+  - Gas Sensor (MQ3, MQ5, MQ6, MQ7, MQ9)
+
 ### v0.0.27 [18/05/25]
 
 - 프로젝트 파일 데이터 암호화

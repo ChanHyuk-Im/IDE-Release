@@ -4,6 +4,21 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+###v0.0.29 [18/06/05]
+
+- 모듈 정보보기 컨텍스트 메뉴 추가
+- 라이브러리 추가
+  - Fire Sensor (KY-026)
+  - Hall Sensor (KY-021, KY-035)
+  - Knock Sensor (KY-031)
+  - Led (KY-029RG, KY-029RY, KY-034)
+  - Magic Cup Light
+  - Motor Driver (L298N)
+  - Rain Sensor (Arduino Story)
+  - Thermistor (KY-013)
+  - Tilt Sensor (KY-002, KY-017, KY-020, XD79A)
+  - Touch Sensor (KY-036)
+
 ### v0.0.28 [18/05/29]
 
 - 저장 & 불러오기 단축키 지정 (ctrl+s, ctrl+o)

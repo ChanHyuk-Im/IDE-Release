@@ -4,13 +4,18 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.31 [18/07/16]
+
+- skiiiD 부분 리팩토링중
+- 하드웨어 모듈 config 구조 수정
+
 ### v0.0.30 [18/06/20]
 
 - 자동완성 리스트 관련 버그 수정
 - 빌드, 업로드 단축기 지정 (ctrl+F5, ctrl+F6)
 - 컨텍스트 메뉴 타이틀 수정
 
-###v0.0.29 [18/06/05]
+### v0.0.29 [18/06/05]
 
 - 모듈 정보보기 컨텍스트 메뉴 추가
 - 라이브러리 추가

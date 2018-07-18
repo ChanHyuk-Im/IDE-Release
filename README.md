@@ -4,6 +4,12 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.32 [18/07/18]
+
+- 모듈 수정 기능 추가
+  - 이름
+  - 핀
+
 ### v0.0.31 [18/07/16]
 
 - skiiiD 부분 리팩토링중

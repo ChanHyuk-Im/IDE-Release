@@ -4,6 +4,11 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.33 [18/07/20]
+
+- 하드웨어 라이브러리 빌드옵션에 추가
+- 시리얼 포트 관련 버그 수정
+
 ### v0.0.32 [18/07/18]
 
 - 모듈 수정 기능 추가

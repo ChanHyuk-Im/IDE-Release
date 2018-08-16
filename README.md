@@ -4,6 +4,15 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.34 [18/08/16]
+
+- 시리얼통신
+  - 내부 데이터 구조 수정
+  - 세부 설정 기능 추가
+  - 데이터 전송 기능 추가
+- 모듈 핀 설정이 겹쳤을 경우 경고 표시
+- 로딩 애니메이션 변경
+
 ### v0.0.33 [18/07/20]
 
 - 하드웨어 라이브러리 빌드옵션에 추가

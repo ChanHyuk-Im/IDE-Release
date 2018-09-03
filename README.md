@@ -4,6 +4,12 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.35 [18/09/02]
+
+- 자동완성 기능 추가
+  - UI 수정
+  - 툴팁 기능
+
 ### v0.0.34 [18/08/16]
 
 - 시리얼통신

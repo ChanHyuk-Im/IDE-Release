@@ -6,6 +6,11 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ### v0.0.36 [18/10/30]
 
+- 버그 수정
+  - 보드 선택 후 기존 데이터 초기화 안되는 버그
+  - 자동완성 UI 깨지는 버그
+- 인터럽트코드 자동완성 구조 수정
+- 자동완성 단축키 추가 (ctrl+space)
 - Find 기능 추가
   - Find
   - Replace

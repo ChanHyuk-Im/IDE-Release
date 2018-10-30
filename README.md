@@ -4,6 +4,13 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.36 [18/10/30]
+
+- Find 기능 추가
+  - Find
+  - Replace
+  - Replace All
+
 ### v0.0.35 [18/09/02]
 
 - 자동완성 기능 추가

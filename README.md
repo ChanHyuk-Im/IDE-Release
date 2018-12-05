@@ -4,6 +4,14 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.37[18/12/05]
+
+- 모듈 search 프로세스 수정
+- find 기능에서 match 갯수 표시
+- table view 추가
+- 버그 수정
+  - new project 시에 코드 템플릿 로드 안되는 버그
+
 ### v0.0.36 [18/10/30]
 
 - 버그 수정

@@ -4,6 +4,17 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.38
+
+- 버그 수정
+  - 처음 실행시 흰 화면이후 진행 안되는 버그
+  - 코드 자동추가 관련 버그
+- find, search, table 테마 추가
+- new 단축기 추가 (ctrl+n)
+- 시스템메뉴 네이티브로 수정
+- 시리얼포트 체크하는 함수 구조 수정
+- 시리얼 세팅 모달 수정
+
 ### v0.0.37[18/12/05]
 
 - 모듈 search 프로세스 수정

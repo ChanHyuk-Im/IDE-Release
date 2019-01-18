@@ -4,7 +4,13 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
-### v0.0.38
+### v0.0.39[19/01/18]
+
+- 라이브러리 병합
+- Arduino Nano 빌드 & 업로드 기능 추가
+- OS에 따른 파일 최적화
+
+### v0.0.38[19/01/08]
 
 - 버그 수정
   - 처음 실행시 흰 화면이후 진행 안되는 버그

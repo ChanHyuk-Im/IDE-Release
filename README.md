@@ -4,6 +4,22 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
+### v0.0.40[19/01/30]
+
+- 콘솔 폰트 수정
+- UI 수정 (테이블, 보드 선택 모달)
+- OS별 패키징 에셋 최적화
+- 네이티브 단축키 추가
+- 자동완성 리스트에 클래스 없는 함수 추가
+- skiiiD copyright & author 추가
+- 링크 클릭시 default browser에서 열리도록 수정
+- Google Analytics 모듈 추가
+- vscode에서 main process 디버깅을 위한 설정파일 추가
+- 라이브러리 로딩 프로세스 최적화
+- 새 보드 선택 후 기존코드 초기화되지 않는 버그 수정
+- 자동완성 리스트에 중복된 이름을 가진 함수가 추가될 수 있도록 수정
+- 에디터 폰트 및 색상 수정
+
 ### v0.0.39[19/01/18]
 
 - 라이브러리 병합

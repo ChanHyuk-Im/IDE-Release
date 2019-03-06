@@ -4,7 +4,7 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
-### v0.0.41 [10/03/06]
+### v0.0.41 [19/03/06]
 
 - 괄호 매칭 표시기능 추가
 - 탭 기능 구현

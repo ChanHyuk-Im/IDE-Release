@@ -4,7 +4,15 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 
 ## Update History
 
-### v0.0.40[19/01/30]
+### v0.0.41 [10/03/06]
+
+- 괄호 매칭 표시기능 추가
+- 탭 기능 구현
+- 하드웨어 추가 모달 UI&UX 수정
+- 시리얼통신 UX 수정
+- 시작페이지 추가
+
+### v0.0.40 [19/01/30]
 
 - 콘솔 폰트 수정
 - UI 수정 (테이블, 보드 선택 모달)
@@ -20,13 +28,13 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 - 자동완성 리스트에 중복된 이름을 가진 함수가 추가될 수 있도록 수정
 - 에디터 폰트 및 색상 수정
 
-### v0.0.39[19/01/18]
+### v0.0.39 [19/01/18]
 
 - 라이브러리 병합
 - Arduino Nano 빌드 & 업로드 기능 추가
 - OS에 따른 파일 최적화
 
-### v0.0.38[19/01/08]
+### v0.0.38 [19/01/08]
 
 - 버그 수정
   - 처음 실행시 흰 화면이후 진행 안되는 버그
@@ -37,7 +45,7 @@ skiiiD, Enterphin IDE, Release and Update Log Repository.
 - 시리얼포트 체크하는 함수 구조 수정
 - 시리얼 세팅 모달 수정
 
-### v0.0.37[18/12/05]
+### v0.0.37 [18/12/05]
 
 - 모듈 search 프로세스 수정
 - find 기능에서 match 갯수 표시
